@@ -1,0 +1,6 @@
+numpy
+matplotlib
+tqdm
+tensorflow
+git+https://github.com/tensorflow/datasets
+Pillow
